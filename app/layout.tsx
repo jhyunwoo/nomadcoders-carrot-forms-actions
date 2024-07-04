@@ -3,9 +3,9 @@ import './globals.css'
 import { ReactNode } from 'react'
 
 export const metadata: Metadata = {
-  title: 'Boilerplate',
+  title: 'Forms and Actions',
   description:
-    'Boilerplate with Next.js, TypeScript, Drizzle ORM, TailwindCSS, Auth.js and Yarn PnP',
+    'Forms and Actions',
 }
 
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
